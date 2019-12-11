@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Lock Key Status Indicator/.vs/Lock Key Status Indicator
+/Lock Key Status Indicator/obj
+/Lock Key Status Indicator/bin/Debug/netcoreapp3.0
