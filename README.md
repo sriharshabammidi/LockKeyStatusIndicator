@@ -1,2 +1,2 @@
-# LockKeyStatusIndicator
+# Lock Key Status Indicator
 This application always stays of top and displays the status of Num lock, Caps Lock, Scroll Lock keys
