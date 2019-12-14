@@ -1,6 +1,6 @@
 ﻿namespace Lock_Key_Status_Indicator
 {
-    partial class Form1
+    partial class LockKeyStatusForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,8 +30,8 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(120, 60);
+            this.Text = "Lock Key Status Indicator";
         }
 
         #endregion
