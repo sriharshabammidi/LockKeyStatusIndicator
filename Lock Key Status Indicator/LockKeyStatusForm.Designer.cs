@@ -1,4 +1,4 @@
-﻿namespace Lock_Key_Status_Indicator
+﻿namespace LockKeyStatusIndicator
 {
     partial class LockKeyStatusForm
     {
