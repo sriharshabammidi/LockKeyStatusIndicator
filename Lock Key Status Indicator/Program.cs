@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lock_Key_Status_Indicator
+namespace LockKeyStatusIndicator
 {
     static class Program
     {
